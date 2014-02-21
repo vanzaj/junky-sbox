@@ -1,3 +1,3 @@
 app_name = 'junky'
-deploy = 'localhost'
-user = 'bob'
+deploy = 'google.com'
+user = 'Bob Smith'
