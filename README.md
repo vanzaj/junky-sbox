@@ -1,6 +1,8 @@
 Sandbox repo for testing purposes
 =================================
 
+Release: 0.0.2
+
 Nothing really interesting here.
 
 Working out pull requests workflow.
